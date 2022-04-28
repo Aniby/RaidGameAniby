@@ -1,8 +1,7 @@
 # Radius Raid #
+# Im only using this repo as a host this is not my game #
 
 Radius Raid is a space themed shoot 'em up where you must blast away unrelenting enemies before they destroy you. The game features 13 enemy types, 5 powerups, parallax backgrounds, retro sound effects, and locally stored stats.
-
-This is an an entry for [js13kGames](http://js13kgames.com) 2013. The theme this year was bad luck, but I didn't work it into my game at all. There are certainly luck and chance factors that affect the gameplay, but those weren't built in for the competition. Check out [Radius Raid](http://js13kgames.com/entries/radius-raid) and all of the other entries at [js13kGames](http://js13kgames.com/entries)!
 
 **Final Size:** 13,278 bytes
 
@@ -26,7 +25,3 @@ I so badly wanted to use [@rezoner](https://twitter.com/rezoner)'s JavaScript ch
 **HTML5 Canvas Reference:** [HTML5 Canvas Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)  
 **Game Math Reference:** Billy Lamberta - [Foundation HTML5 Animation with JavaScript](http://lamberta.github.io/html5-animation/)
 
-# Screenshots #
-![Radius Raid Menu](http://jackrugile.com/radius-raid/images/menu-screenshot.png "Radius Raid Menu")
-
-![Radius Raid Gameplay](http://jackrugile.com/radius-raid/images/gameplay-screenshot.png "Radius Raid Gameplay")
